@@ -1,4 +1,5 @@
 build*/
-fuzz/corpus/
+fuzz/corpus/fuzz_llex/
+fuzz/corpus/fuzz_strings/
 releases/
 tmp/
